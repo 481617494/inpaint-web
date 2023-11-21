@@ -17,7 +17,7 @@ https://github.com/lxfater/inpaint-web/assets/22794120/bcad4812-02ae-48bb-9e84-9
 Demo link:https://inpaintweb.lxfater.com/
 
 
-## Project Roadmap
+## Project Roadmap / 项目路线图
 ### en
 - [ ] Image Modification History
 - [ ] Historical File Storage
